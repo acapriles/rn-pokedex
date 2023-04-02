@@ -7,7 +7,7 @@ import { SimplePokemon } from '../interfaces/pokemonInterfaces';
 import { FadeInImage } from './FadeInImage';
 import { getRGB, isSimilar } from '../helpers/compareColors';
 import { StackNavigationProp } from '@react-navigation/stack';
-import { RootStackParams } from '../navigation/Navigation';
+import { RootStackParams } from '../navigation/Tab1';
 
 const windowWidth = Dimensions.get('window').width
 
